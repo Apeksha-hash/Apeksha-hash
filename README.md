@@ -1,7 +1,6 @@
 ## Hi there, I am Apeksha 👋
 # 💫 About Me:
 I am computer engineering undergraduate<br> 
-I am currently learning React.js<br>
 A tech enthusiast that is always curious on new tech
 
 ### 🌐 Socials:
