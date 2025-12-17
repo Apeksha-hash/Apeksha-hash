@@ -5,7 +5,7 @@ A tech enthusiast that is always curious on new tech
 
 ### 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/15qzS31GVy/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apeksha-dhakal-87207033a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
